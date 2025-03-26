@@ -52,4 +52,4 @@ Here’s the step-by-step process I followed to create the Power BI dashboard.
 ![powebi_page1](https://github.com/user-attachments/assets/ce6e2901-f557-4dea-a098-4aa9a904679c)
 
 ### Second Page
-![powerbi_2](https://github.com/user-attachments/assets/1149e398-e726-4024-9585-e464b4c86dce)
+![powerbi_2](https://github.com/user-attachments/assets/ce540ca4-d857-40e9-a28b-1b8b8e91ff03)
